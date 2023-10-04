@@ -1,0 +1,64 @@
+<html>
+    <title>Стрей Кидсики</title>
+    <body style="background:#351F39">
+        <header><img src="https://i.pinimg.com/originals/3f/95/e2/3f95e2c3589073202eb03950375dcb18.png"width="514" height="286px">
+        <a href="name">хто такі стрей</a>
+        </header>
+        <main>
+            <h6 id="name">хто такі стрей</h6>
+            <h2 style="background:#726A95;text-align:center">Хто такі Стрей Кідс?</h2> 
+            <p style="background:#726A95">Стрей кідс (англ. Stray Kids) - південнокорейський хлопчачий музичний гурт, що дебютував у 2018 році. <i>Гурт складається з 8 учасників: Бан Чана, Чанбіна, Джисон, Хьоджина, Фелікса та Чон Іна.</i> Гурт заснований компанією JYP Entertainment через шоу-проект "Stray Kids" у 2017 році. Учасники гурту виступають як виконавці, репери, продюсери і автори пісень. Музика Stray Kids охоплює різні жанри, включаючи хіп-хоп, EDM, поп-рок і R&B. Гурт отримав велику популярність як в Кореї, так і за кордоном, завойовуючи велику армію прихильників своєю енергійною музикою, сильними текстами і харизматичними виступами.</p>
+            <img src="https://palpitesalheios.files.wordpress.com/2022/03/stray-kids_oddinary-2.jpg?w=1028"width="514" height="286px"/>
+            <table style="background-color:#726A95">
+                <tr>
+                    <td> ім'я</td>
+                    <td> дата народження</td>
+                    <td> скільки років</td>
+                </tr>
+                <tr>
+                    <td> Бан Чан</td>
+                    <td>3 жовтня</td>
+                    <td>25 р.</td>
+                </tr>
+                <tr>
+                    <td>Лі Фелікс</td>
+                        <td>16 вересня</td>
+                            <td> 23.p</td>
+                            </tr>
+                            <tr>
+                                <td> Лі Ноу</td>
+                                <td>25 жовтня</td>
+                                <td>24.p</td>
+                            </tr>
+                            <tr>
+                                <td> Хьоджін</td>
+                                <td> 20 березня</td>
+                                <td>23.p</td>
+                            </tr>
+                            <tr>
+                                <td>Чон Ін</td>
+                                <td>8 лютого </td>
+                                <td>22 р</td>
+                            </tr>
+                            <tr>
+                                <td>Син Мін</td>
+                                <td>22 вересня</td>
+                                <td>23 р</td>
+                            </tr>
+                            <tr>
+                                <td>Джі Сон</td>
+                                <td>14 вересня </td>
+                                <td>23 р</td>
+                            </tr>
+                            <tr>
+                                <td>Чан Бін</td>
+                                <td> 11 серпня</td>
+                                <td>24 р</td>
+                            </tr>
+                            
+                                </table>
+        </main>
+        <footer style="text-align:center"> хочете замовити сайт +380.631.790.377
+        </footer>
+    </body>
+</html>
